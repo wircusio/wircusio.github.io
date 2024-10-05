@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wircusio.github.io/sitemap.html.gz
+Sitemap: https://wircusio.github.io/app/sitemap.html.gz
+Sitemap: https://wircusio.github.io/assets/sitemap.html.gz
+Sitemap: https://wircusio.github.io/css/sitemap.html.gz
+Sitemap: https://wircusio.github.io/data/sitemap.html.gz
+Sitemap: https://wircusio.github.io/includes/sitemap.html.gz
+Sitemap: https://wircusio.github.io/item/sitemap.html.gz
+Sitemap: https://wircusio.github.io/src/sitemap.html.gz
